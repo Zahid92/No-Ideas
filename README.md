@@ -4,3 +4,8 @@ Alexa is Amazon’s cloud base voice service, that helps users interact with bra
 # Idea :
   Our team has made an simple but powerful solution.Our solution includes a user interface collaborated with Alexa .Alexa voice will be the guiding tool in whole solution.We have made solution in such manner that recommend user a better plan for travel also makes a optimal and affordable budget also it recommends best Historic tourist place in particular region also with best restaurants and hotels with affordable check in and also a minimal air fare .
 Our solution is like a companion which never leave the tourist in any unfortunate situations like in emergency it also send SOS call and also provide user's last location to requiste authorities and people.
+
+
+#Technology Stack :
+ Voiceflow is used to create all the Voice user interface.
+ The design templates and graphics user interface is created by using Amazon devloper console.
