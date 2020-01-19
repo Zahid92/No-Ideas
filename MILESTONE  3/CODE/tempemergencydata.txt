@@ -1,0 +1,241 @@
+{
+    "listTemplate2Metadata": {
+        "type": "object",
+        "objectId": "lt1Metadata",
+        "backgroundImage": {
+            "contentDescription": null,
+            "smallSourceUrl": null,
+            "largeSourceUrl": null,
+            "sources": [
+                {
+                    "url": "",
+                    "size": "small",
+                    "widthPixels": 0,
+                    "heightPixels": 0
+                },
+                {
+                    "url": "https://d2o906d8ln7ui1.cloudfront.net/images/LT2_Background.png",
+                    "size": "large",
+                    "widthPixels": 0,
+                    "heightPixels": 0
+                }
+            ]
+        },
+        "title": "Results for \"Emergency Protocols\"",
+        "logoUrl": "https://d2o906d8ln7ui1.cloudfront.net/images/cheeseskillicon.png"
+    },
+    "listTemplate2ListData": {
+        "type": "list",
+        "listId": "lt2Sample",
+        "totalNumberOfItems": 10,
+        "hintText": "Try, \"Alexa, select number 1\"",
+        "listPage": {
+            "listItems": [
+                {
+                    "listItemIdentifier": "Call for Police",
+                    "ordinalNumber": 1,
+                    "textContent": {
+                        "primaryText": {
+                            "type": "PlainText",
+                            "text": "Call for Pol"
+                        },
+                        "secondaryText": {
+                            "type": "PlainText",
+                            "text": "Origin: France"
+                        }
+                    },
+                    "image": {
+                        "contentDescription": null,
+                        "smallSourceUrl": null,
+                        "largeSourceUrl": null,
+                        "sources": [
+                            {
+                                "url": "http://pluspng.com/img-png/police-car-hd-png-black-ford-police-interceptor-car-png-image-1527.png",
+                                "size": "small",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            },
+                            {
+                                "url": "https://d2o906d8ln7ui1.cloudfront.net/images/md_brie.png",
+                                "size": "large",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            }
+                        ]
+                    },
+                    "token": "brie"
+                },
+                {
+                    "listItemIdentifier": "gruyere",
+                    "ordinalNumber": 2,
+                    "textContent": {
+                        "primaryText": {
+                            "type": "PlainText",
+                            "text": "Call for Ambulance"
+                        },
+                        "secondaryText": {
+                            "type": "RichText",
+                            "text": "Origin: Switzerland"
+                        }
+                    },
+                    "image": {
+                        "contentDescription": null,
+                        "smallSourceUrl": null,
+                        "largeSourceUrl": null,
+                        "sources": [
+                            {
+                                "url": "http://pngimg.com/uploads/ambulance/ambulance_PNG31.png",
+                                "size": "small",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            },
+                            {
+                                "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/47/c2/d2/47c2d2a4-b03b-8f72-28f3-7044ff2d5da8/source/512x512bb.jpg",
+                                "size": "large",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            }
+                        ]
+                    },
+                    "token": "gruyere"
+                },
+                {
+                    "listItemIdentifier": "Share my Location",
+                    "ordinalNumber": 3,
+                    "textContent": {
+                        "primaryText": {
+                            "type": "PlainText",
+                            "text": "Share my loca"
+                        },
+                        "secondaryText": {
+                            "type": "RichText",
+                            "text": "Origin: Italy"
+                        }
+                    },
+                    "image": {
+                        "contentDescription": null,
+                        "smallSourceUrl": null,
+                        "largeSourceUrl": null,
+                        "sources": [
+                            {
+                                "url": "https://d2o906d8ln7ui1.cloudfront.net/images/md_gorgonzola.png",
+                                "size": "small",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            },
+                            {
+                                "url": "https://d2o906d8ln7ui1.cloudfront.net/images/md_gorgonzola.png",
+                                "size": "large",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            }
+                        ]
+                    },
+                    "token": "gorgonzola"
+                },
+                {
+                    "listItemIdentifier": "brie",
+                    "ordinalNumber": 1,
+                    "textContent": {
+                        "primaryText": {
+                            "type": "PlainText",
+                            "text": "Brie"
+                        },
+                        "secondaryText": {
+                            "type": "PlainText",
+                            "text": "Origin: France"
+                        }
+                    },
+                    "image": {
+                        "contentDescription": null,
+                        "smallSourceUrl": null,
+                        "largeSourceUrl": null,
+                        "sources": [
+                            {
+                                "url": "https://d2o906d8ln7ui1.cloudfront.net/images/tl_brie.png",
+                                "size": "small",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            },
+                            {
+                                "url": "https://d2o906d8ln7ui1.cloudfront.net/images/tl_brie.png",
+                                "size": "large",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            }
+                        ]
+                    },
+                    "token": "tl_brie"
+                },
+                {
+                    "listItemIdentifier": "gruyere",
+                    "ordinalNumber": 2,
+                    "textContent": {
+                        "primaryText": {
+                            "type": "PlainText",
+                            "text": "Gruyere"
+                        },
+                        "secondaryText": {
+                            "type": "RichText",
+                            "text": "Origin: Switzerland"
+                        }
+                    },
+                    "image": {
+                        "contentDescription": null,
+                        "smallSourceUrl": null,
+                        "largeSourceUrl": null,
+                        "sources": [
+                            {
+                                "url": "https://d2o906d8ln7ui1.cloudfront.net/images/tl_gruyere.png",
+                                "size": "small",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            },
+                            {
+                                "url": "https://d2o906d8ln7ui1.cloudfront.net/images/tl_gruyere.png",
+                                "size": "large",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            }
+                        ]
+                    },
+                    "token": "tl_gruyere"
+                },
+                {
+                    "listItemIdentifier": "gorgonzola",
+                    "ordinalNumber": 3,
+                    "textContent": {
+                        "primaryText": {
+                            "type": "PlainText",
+                            "text": "Gorgonzola"
+                        },
+                        "secondaryText": {
+                            "type": "RichText",
+                            "text": "Origin: Italy"
+                        }
+                    },
+                    "image": {
+                        "contentDescription": null,
+                        "smallSourceUrl": null,
+                        "largeSourceUrl": null,
+                        "sources": [
+                            {
+                                "url": "https://d2o906d8ln7ui1.cloudfront.net/images/tl_gorgonzola.png",
+                                "size": "small",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            },
+                            {
+                                "url": "https://d2o906d8ln7ui1.cloudfront.net/images/tl_gorgonzola.png",
+                                "size": "large",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            }
+                        ]
+                    },
+                    "token": "tl_gorgonzola"
+                }
+            ]
+        }
+    }
+}
